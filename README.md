@@ -73,3 +73,4 @@ Never commit passwords, secrets, access keys, private keys, connection strings o
 10. Cost Management
 11. Azure CLI
 12. Bicep
+"# azure-enterprise-infrastructure-lab" 

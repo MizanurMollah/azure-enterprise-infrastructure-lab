@@ -15,4 +15,8 @@ The objective of this task is to establish the foundational resource-management 
 Create an Azure Resource Group using the following name:
 
 ```text
+<<<<<<< HEAD
 rg-azure-enterprise_MM
+=======
+rg-azlab-prod
+>>>>>>> 17e3ae1 (Add complete Azure enterprise infrastructure lab)

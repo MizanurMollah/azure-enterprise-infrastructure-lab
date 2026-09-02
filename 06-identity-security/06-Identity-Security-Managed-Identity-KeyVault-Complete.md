@@ -15,4 +15,3 @@ Assign `Key Vault Secrets Officer` to the administrator at the Key Vault scope, 
 
 ### Screenshot folder
 See `screenshots/` for the 13 attached Azure Portal screenshots.
-
